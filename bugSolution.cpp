@@ -1,0 +1,1 @@
+std::vector<int> myVector(10); for (int i = 0; i < myVector.size(); ++i) { myVector[i] = i * 2; }
